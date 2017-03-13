@@ -1,0 +1,2 @@
+MainPackage=D:\Programming\UWP\CoderCalender\CoderCalender\bin\ARM\Release\CoderCalender_1.1.1.0_ARM.appx
+SymbolPackage=D:\Programming\UWP\CoderCalender\CoderCalender\AppPackages\CoderCalender_1.1.1.0_Test\CoderCalender_1.1.1.0_ARM.appxsym
